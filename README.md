@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**carlosreal1996/carlosreal1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# CARLOS E. VIEIRA | PROGRAMAÇÃO  🔴 
 
-Here are some ideas to get you started:
+Sou desenvolvedor Front-End com alguns meses de experiência, Desenvolvo Paginas responsivas e otimizadas, trabalho com HTML, CSS, Tailwindcss , Bootstrap. Estudando Javascript, Angular e React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[PORTIFÓLIO ONLINE](https://carlosvieiradev.netlify.app/)
+
+
+##  🚀 SKILLS 
+
+- HTML
+- CSS3
+- TAILWIND
+- JAVASCRIPT
+- BOOTSTRAP
+
+
+
+## 💻 MINHA REDES 
+
+ | REDES |
+ | ------|
+|  [INSTAGRAM: @_loskar](https://www.instagram.com/_loskar/)|
+|  [SITE PESSOAL](https://carlosvieiradev.netlify.app/)|
+
