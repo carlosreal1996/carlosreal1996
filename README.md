@@ -24,5 +24,3 @@ Sou desenvolvedor Front-End com alguns meses de experiência, Desenvolvo Paginas
 |  [SITE PESSOAL](https://carlosvieiradev.netlify.app/)|
 
 
-
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
