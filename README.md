@@ -9,7 +9,7 @@ Sou desenvolvedor Front-End com alguns meses de experiência, Desenvolvo Paginas
 ##  🚀 SKILLS 
 
 <div>
-  ![alt](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 
  
 </div>
