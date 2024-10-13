@@ -23,3 +23,6 @@ Sou desenvolvedor Front-End com alguns meses de experiência, Desenvolvo Paginas
 |  [INSTAGRAM: @_loskar](https://www.instagram.com/_loskar/)|
 |  [SITE PESSOAL](https://carlosvieiradev.netlify.app/)|
 
+
+
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
